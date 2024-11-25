@@ -25,7 +25,7 @@ const reactElement = {
   },
   children: "Click me to visit google",
 };
-
+//comment testing
 const mainContainer = document.querySelector("#root");
 
 customRender(reactElement, mainContainer);
